@@ -1,0 +1,6 @@
+{
+  "name": "Sukoon Matrimony",
+  "description": "Family-verified marriage bureau and matrimonial registry where boys and girls create shaadi profiles, browse proposals, and connect respectfully.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
